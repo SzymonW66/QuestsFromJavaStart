@@ -64,3 +64,15 @@ W
 'src/main/java/Chapter6/ex3/Product.java,7\b\7b42b3b1e7c35e7e67631b552697ab73e6cc6018
 X
 (src/main/java/Chapter7/ex2/DiceTest.java,d\f\dfb472c937be60ad81f35705cf9f1a1e888bef52
+T
+$src/main/java/Chapter7/ex2/Dice.java,e\b\eb5632d2209c2757e95823e34293808f1e772c32
+[
++src/main/java/Chapter7/ex1/Calculator1.java,f\9\f9ef446ab5da7d1282a28cbdb3996c8e0aea1285
+X
+(src/main/java/Chapter7/ex1/CalcTest.java,a\7\a7c31aa3656ddc25eb9ff617d6e5f6a01d72c7e8
+V
+&src/main/java/UnitTesting/Account.java,5\f\5f44b4d12533394eea1990d957a9b6bf88ab1170
+b
+2src/test/java/UnitTesting/testing/AccountTest.java,f\8\f8677432cfe33f56bde2a9979186996688c51fbd
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
