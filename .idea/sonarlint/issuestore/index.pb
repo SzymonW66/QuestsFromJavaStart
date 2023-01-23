@@ -76,3 +76,17 @@ b
 2src/test/java/UnitTesting/testing/AccountTest.java,f\8\f8677432cfe33f56bde2a9979186996688c51fbd
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+]
+-src/main/java/Chapter8/ex2/logic/Charger.java,3\5\3578a18a8cdbec5d416af0ae0bcc59166002900a
+e
+5src/main/java/Chapter8/ex2/application/PhoneTest.java,5\0\5036f427289fc1f48efdef3caf1e21e015339e00
+_
+/src/main/java/Chapter8/ex2/model/Telephone.java,3\5\3558ba75e66b13818c1613e56a6a76957b62eedd
+c
+3src/main/java/Chapter8/ex1/app/PointAplication.java,5\0\50e482e71476d372897e5f680940013caf93913a
+j
+:src/main/java/Chapter8/ex1/controller/PointController.java,0\a\0a4240e0574b027b6da21ab8b80616eb0785a5d1
+Z
+*src/main/java/Chapter8/ex1/data/Point.java,3\9\391fbc6e5f045d1daac0e1d411c867e576ff4f77
+`
+0src/main/java/Chapter9/ex1/PointController9.java,d\1\d126fbab78c509fd9985d6f1524ce5ec8b1e9dd8
