@@ -106,3 +106,9 @@ W
 +src/main/java/Chapter10/ex2/Simulation.java,1\5\15de65d7d9b55d7086912e19a5a58b553402ebe6
 Y
 )src/main/java/Chapter10/ex2/Elevator.java,c\a\ca702d0e112a52c92c844dd4888c816eab0d3dd7
+d
+4src/main/java/Chapter11/ex1/MultidimensionalTab.java,f\f\ff92f61ab96abe65fb689531282944efb34e6b3a
+[
++src/main/java/Chapter12/ex1/Calculator.java,a\a\aa5ed50ec6e4e58e8038e775f395729dbae7d37c
+[
++src/main/java/Chapter12/ex1/Simulation.java,8\e\8ee4e9d43a8b8b88c9980dd706fab6e64f912950

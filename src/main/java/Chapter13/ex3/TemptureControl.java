@@ -19,8 +19,8 @@ public class TemptureControl {
         while (actualTemp > destTemp) {
             actualTemp -= 0.5;
             System.out.println(actualTemp);
-            System.out.println("Achived temp : " + actualTemp);
-        }
 
+        }
+        System.out.println("Achived temp : " + actualTemp);
     }
 }
