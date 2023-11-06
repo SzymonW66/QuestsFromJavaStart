@@ -1,5 +1,6 @@
 package Chapter27.ex2;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class WordStatistic {
@@ -12,12 +13,12 @@ public class WordStatistic {
         try {
             int biggestDigitInText = findBiggestDigitInText(word);
             System.out.println("Największa cyfra w tekście to " + biggestDigitInText);
-        } catch (DigitNotFoundException e){
+        } catch (IOException e){
             System.out.println("Nie znaleziono takiej liczby");
         }
     }
 
-    private static int findBiggestDigitInText(String word) {
+    private static int findBiggestDigitInText(String word) throws IOException {
        char [] chars = word.toCharArray();
        final int notFound = -1;
        int biggestNumber = notFound;
@@ -28,7 +29,7 @@ public class WordStatistic {
         }
     }
         if(biggestNumber == notFound){
-            throw new DigitNotFoundException();
+            throw new IOException();
         }
         return biggestNumber;
     }
