@@ -16,8 +16,6 @@ public class ProductManager {
         } catch (FileNotFoundException e) {
             System.out.println("Problem z plikiem");
         }
-
-
     }
 
     private static void printCategoryStats(String category, Map<String, TreeSet<Product>> productsMap) {
